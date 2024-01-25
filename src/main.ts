@@ -1,4 +1,4 @@
-import { AppOne as App } from './AppOne';
+import App from './AppTwo';
 
 console.log(`main.ts starting ${App.name}`);
 window.addEventListener('DOMContentLoaded', () => {
